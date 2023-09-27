@@ -1,7 +1,3 @@
-var a = 10;
-
-a = a -6;
-a -= 1;
-a--;
-
+let a = 1;
+let b = ++a;
 console.log(a);
